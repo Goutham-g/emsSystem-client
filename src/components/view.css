@@ -1,0 +1,8 @@
+#view__body{
+    min-height: 80vh;
+}
+.img__div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
